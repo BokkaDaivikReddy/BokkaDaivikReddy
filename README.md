@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm **Bokka Daivik Reddy**
+<h1 align="center">Hi 👋, I'm Bokka Daivik Reddy</h1>
 
 I'm a **Computer Science student at Chaitanya Bharathi Institute of Technology**, passionate about technology and driven by a commitment to **continuous learning**.
 
